@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     margin: 0;
     text-align: center;
+
     
 }
 
@@ -69,4 +70,11 @@ a {
 
 #footer a + a {
     margin-left: 42px;
+}
+
+#wave {
+    position:fixed;
+    width: 100%;
+    bottom: 0;
+    right: 0;
 }
